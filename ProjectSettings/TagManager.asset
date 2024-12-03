@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - fast
+  - stop
+  - rocket
+  - slow
+  - wall
+  - player_blue
+  - player_red
+  - roket
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1798332819
+    locked: 0
+  - name: wall
+    uniqueID: 1037459761
+    locked: 0
+  - name: player
+    uniqueID: 331148185
+    locked: 0
+  - name: buton
+    uniqueID: 278656907
+    locked: 0
